@@ -3,7 +3,7 @@
 Plugin Name: Tumble
 Description: Send your posts and media (images, audio, video) to Tumblr manually (just one click!)
 Author: Scott Taylor
-Version: 0.1
+Version: 0.2
 Author URI: http://tsunamiorigami.com
 */
 
