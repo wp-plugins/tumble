@@ -20,4 +20,8 @@ Go to <code>plugins/tumble/tumble.php</code> and enter your Tumblr Username/Pass
 = 0.1 =
 * Initial release
 
+= 0.2 =
+* Crucial Updated
+
 == Upgrade Notice ==
+* Please update to the latest release of Tumble
