@@ -3,6 +3,7 @@ Contributors: wonderboymusic
 Tags: Tumblr, social, media, attachments, admin, images, image, videos, video, audio, cms, manage, music, photo, photos, thumbnail, upload
 Requires at least: 3.0
 Tested up to: 3.0
+Stable tag: 0.2
 
 Tumble is simple-to-use and allows you to manually send Posts, Images, Audio, and Video to Tumblr from within your Dashboard/Media Library
 
