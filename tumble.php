@@ -7,9 +7,9 @@ Version: 0.1
 Author URI: http://tsunamiorigami.com
 */
 
-define('TUMBLR_EMAIL', 'scott.c.taylor@mac.com');
-define('TUMBLR_PASSWORD', 'jimithing');
-define('TUMBLR_UA', 'Scott Taylor\'s WordPress Blog'); /* not required */
+define('TUMBLR_EMAIL', '');
+define('TUMBLR_PASSWORD', '');
+define('TUMBLR_UA', ''); /* not required */
 define('TUMBLR_TO_TWITTER', 'no'); /* other choices are "auto" or (custom string for Twitter) */
 define('TUMBLR_AUDIO_MAX_FILESIZE', 10000000); /* 10MB */
 define('TUMBLR_PHOTO_MAX_FILESIZE', 10000000); /* 10MB */
